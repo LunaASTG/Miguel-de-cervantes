@@ -1,0 +1,37 @@
+.ultrabig-text {
+  font-size: 65px!important;
+}
+.big-text {
+  font-size: 45px!important;
+}
+.medium-text {
+  font-size: 35px;
+}
+.bold {
+  font-weight: bold!important;
+}
+.text-box {
+  text-align: center;
+  width: 50%;
+  margin-left: 25%;
+}
+.text-box p{
+  font-size: 23px;
+  color: #00154F;
+}
+.navy {
+  background-color: #00154F!important;
+  color: white!important;
+}
+.white-text {
+  color: #ffffff!important;
+}
+.text-box2 {
+  font-size: 23px;
+  color: #00154F;
+  text-align: justify;
+}
+#e1:hover {
+  background-image: url(images/clients/hover/1.png)!important;
+  z-index: 0;
+}
